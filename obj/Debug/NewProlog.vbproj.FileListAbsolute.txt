@@ -1,0 +1,10 @@
+H:\源代码\Visual Basic.Net\NewProlog\bin\Debug\NewProlog.exe.config
+H:\源代码\Visual Basic.Net\NewProlog\bin\Debug\NewProlog.exe
+H:\源代码\Visual Basic.Net\NewProlog\bin\Debug\NewProlog.pdb
+H:\源代码\Visual Basic.Net\NewProlog\bin\Debug\NewProlog.xml
+H:\源代码\Visual Basic.Net\NewProlog\obj\Debug\NewProlog.Form1.resources
+H:\源代码\Visual Basic.Net\NewProlog\obj\Debug\NewProlog.Resources.resources
+H:\源代码\Visual Basic.Net\NewProlog\obj\Debug\NewProlog.vbproj.GenerateResource.Cache
+H:\源代码\Visual Basic.Net\NewProlog\obj\Debug\NewProlog.exe
+H:\源代码\Visual Basic.Net\NewProlog\obj\Debug\NewProlog.xml
+H:\源代码\Visual Basic.Net\NewProlog\obj\Debug\NewProlog.pdb
